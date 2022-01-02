@@ -1,0 +1,48 @@
+/*
+App-custom.css
+Template name: AppUI
+Author: rustheme
+*/
+
+/*# sourceMappingURL=maps/app-custom.css.map */
+.app-layout-drawer {
+    background-color: #2F3136;
+    color: white;
+}
+
+.nav > li > a:hover, .nav > li > a:focus {
+    background-color: rgb(79, 84, 92, 0.32);
+}
+
+.nav-drawer > .active > a {
+    background-color: transparent;
+    border-color: #F76700;
+}
+
+.nav-drawer > .active > a {
+    background-color: transparent;
+    border-color: #F76700;
+}
+
+.nav-drawer > .active > a {
+    background-color: transparent;
+    border-color: #F76700;
+}
+
+.nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
+    background-color: rgb(79, 84, 92, 0.32);
+    border-color: transparent;
+}
+
+.nav-drawer > .active > a {
+    background-color: transparent;
+    border-color: #F76700;
+}
+
+.nav-drawer > .active > a:hover, .nav-drawer > .active > a:focus, .nav-drawer > .active > a:active {
+    border-color: #F76700;
+}
+
+.dataTables_filter {
+    float: right !important;
+}
